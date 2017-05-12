@@ -1,12 +1,9 @@
-﻿# TheSame Note
+# TheSame Note
 
----
-
-title: "TheSame"
+```
 author: "Haoye"
 date: "2017-5-12"
-
----
+```
 
 ## 1. Code
 
